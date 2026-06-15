@@ -1,0 +1,30 @@
+# Free Secure CSV Converter — Ask Jeeves
+
+> Free, secure CSV converter. Convert CSV to JSON or Excel (XLSX) in your browser. Nothing is uploaded—your data stays on your device.
+
+## Tool
+
+- [Free Secure CSV Converter](https://csv.askjeeves.cc/): Convert CSV to JSON or Excel (XLSX) in your browser
+
+## Supported conversions
+
+- CSV → JSON
+- CSV → Excel (XLSX)
+
+## FAQ
+
+- Is this CSV converter free? Yes. Every conversion is free with no account, watermark, or usage limit.
+- Is this CSV converter secure? Yes. Files are processed locally in your browser. Nothing is uploaded to a server, so your data stays on your device.
+- What formats can I convert CSV to? You can convert CSV to JSON for developers and APIs, or to Excel (XLSX) for spreadsheet apps.
+- Does the converter handle commas and quoted fields? Yes. The parser handles standard CSV quoting and delimiters so rows with commas inside quoted cells convert correctly.
+- Does the converter work on mobile? Yes. It runs in modern mobile browsers that support HTML5 and JavaScript. Very large files may be slower on mobile devices.
+- What is the maximum file size? Each file can be up to about 50 MB. If a file is too large, you will see a clear error message asking you to use a smaller file.
+- Why did my conversion fail? Common causes are a non-CSV file, invalid or corrupted CSV data, or exceeding the size limit. Check the message below the converter for specific guidance, then try again or refresh the page.
+
+## Extended context
+
+- [Full site context](https://csv.askjeeves.cc/llms-full.txt): how-it-works, security, and per-conversion details
+
+## More tools
+
+- [Ask Jeeves](https://askjeeves.cc): Free file conversion tools (PDF, images, CSV/JSON/Excel, Word)
